@@ -78,8 +78,6 @@ body {
    
 }
 
-
-
 .products{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -118,8 +116,6 @@ body {
     display: flex;
     justify-content:space-between;
     align-items: center;
-    font-size: 15px;
-    
     
 }
 
