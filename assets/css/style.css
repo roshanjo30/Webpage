@@ -33,14 +33,17 @@ body {
 
 .search {
     display: flex;
+    padding: 5px;
     align-items: center;
+    background-color: #F2F0F3;
 }
 
 #search {
     width: 170px;
-    height: 20px;
+    height: 25px;
     padding: 5px;
     border: 0;
+    background-color: #F2F0F3;
 }
 
 #submit {
@@ -89,7 +92,7 @@ body {
 .products img{
     width: 310px;
     height: 323px;
-    display: block;
+    display: flex;
     justify-self: center;
 }
 
