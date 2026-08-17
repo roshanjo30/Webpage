@@ -220,16 +220,18 @@ body {
         height: 100%;
     }
 
+    
+
     .productinfo h3 {
         margin: 0;
-        font-size: 10px;
+        font-size: 7px;
         justify-self: flex-end;
     }
 
     .productinfo h5 {
         padding-top: 3px;
         color: #706c6c;
-        font-size: 8px;
+        font-size: 6px;
         font-weight: 100;
         
     }
