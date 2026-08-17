@@ -223,6 +223,7 @@ body {
     .productinfo h3 {
         margin: 0;
         font-size: 10px;
+        justify-self: flex-end;
     }
 
     .productinfo h5 {
@@ -230,6 +231,7 @@ body {
         color: #706c6c;
         font-size: 8px;
         font-weight: 100;
+        
     }
 }
 
