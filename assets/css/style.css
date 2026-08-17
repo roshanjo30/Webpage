@@ -6,6 +6,7 @@
 
 body {
     margin: 25px;
+    font-size: 30px;
 }
 
 
@@ -73,7 +74,7 @@ body {
 .category div {
     margin: 0;
     font-size: 24px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: "Black Ops One", sans-serif;
 }
 
 .sort {
@@ -131,7 +132,7 @@ body {
         margin: 3px;
         padding: 2px;
         color: #ffffff;
-        font-size: 8px;
+        font-size: 18%;
         font-weight: bold;
     }
 
@@ -196,7 +197,7 @@ body {
     }
 
     .category div {
-        font-size: 12px;
+        font-size: 11px;
     }
 
     .sort {
@@ -239,9 +240,9 @@ body {
 
 /* Tablet */
 
-@media (min-width: 768px) {
+@media (min-width: 767px) {
     .category div {
-        font-size: 15px;
+        font-size: 19px;
     }
 
     .sort {
